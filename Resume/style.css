@@ -1,5 +1,8 @@
 @font-face {
     font-family: "Open Sans", Arial, sans-serif;
     font-size: 1em;
-    
+    color: #444;
   }
+h1 {
+  color: #33485e;
+}
