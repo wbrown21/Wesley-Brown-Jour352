@@ -1,20 +1,24 @@
 /*(styles for my resume)*/
 
-@font-face {
-    font-family: "Open Sans", Arial, sans-serif;
-    font-size: 1em;
-    color: #444;
-  }
+body {
+  font-family: 'Open Sans', Ariel, sans-serif;
+  color: #444;
+  font-weight: 400;
+}
 
 /*Name*/
 h1 {
   color: #33485e;
   text-transform: uppercase;
-  margin: 0;
+  text-align: center;
 }
 
 /*Title*/
-  
+strong {
+  color: #33485e;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
 
 /*Section titles*/
 h2 {
