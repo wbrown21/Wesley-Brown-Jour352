@@ -2,3 +2,60 @@
   margin: 0 auto;
   width: 900px;
 }
+
+.h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 26px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+text-align: center;
+margin-top: 10px;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 10px;
+}
+
+.p {
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
+
+.blockquote {
+  font-size: 21px;
+  text-align: center;
+  color: #FF5700;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 21px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+
+.h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
