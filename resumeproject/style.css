@@ -1,0 +1,68 @@
+.jumbotron{
+    background: url("https://i.imgur.com/0euHkNk.png") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.row {
+  align-items: center;
+}
+
+/*Section titles*/
+.h3 {
+
+}
+
+/*Job titles*/
+.jobtitle {
+  font-weight: 600;
+  font-size: 1.5em;
+  color: #FF8C00;
+}
+
+/*Job organization*/
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+  color: #FF8C00;
+}
+
+/*Job dates*/
+.date {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+  color: #FF8C00;
+  margin-top: 2px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+/*Description and list items*/
+.description {
+  font-size: 1em;
+  color: #FF8C00;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+/*Menu*/
+.menu {
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+  font-size: 1em;
+  color: #FF8C00;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
