@@ -13,16 +13,18 @@
 }
 
 #chapter {
-  font-size: 1.5em;
+  font-size: 2.5em;
   font-weight: 700;
+  color: #f23030;
   text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
 
+
 p {
   font-family: Georgia, serif;
   line-height: 100%;
-  font-size: 1em;
+  font-size: 1.25em;
 }
 
 .image {
@@ -62,6 +64,12 @@ p {
   color: #f23030;
 }
 
+.open {
+  color: #f23030;
+  font-size: 2em;
+  font-weight: 400;
+}
+
 /*hero area*/
 .hero-container {
   position: relative;
@@ -81,12 +89,12 @@ p {
   opacity: .7;
 }
 
-.hero-hed {
+.hero-head {
   font-family: 'Playfair Display', serif;
-  font-size:6em;
-  color:#fff;
+  font-size: 6em;
+  color: #fff;
   margin: 0 auto;
-  padding-bottom:10px;
+  padding-bottom: 10px;
 }
 
 .hero-sub {
@@ -94,9 +102,43 @@ p {
   font-size:.25em;
 }
 
+/*Pull quote*/
+.quote {
+  font-family: "Montserrat", sans-serif;
+  color: #f23030;
+  font-size: 3em;
+  font-weight: 700;
+  text-align: left;
+  padding: 15px 0 15px 0;
+  border-top: 1px solid #f23030;
+  border-bottom: 1px solid #f23030;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.quote-attribution {
+  font-size: .5em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  text-align: left;
+  color: #000;
+}
+
+a:link {
+  color: #f23030
+}
+
+a:hover {
+  color: #000;
+}
+
+a:visited {
+  color: #ffa500;
+}
+
 @media (max-width:600px) {
 
-  hero-hed {
+  .hero-hed {
     font-size: 1.5em;
   }
 
