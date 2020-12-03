@@ -136,6 +136,16 @@ a:visited {
   color: #ffa500;
 }
 
+/*sidebar*/
+.sidebar {
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  background: #111;
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+
 @media (max-width:600px) {
 
   .hero-hed {
